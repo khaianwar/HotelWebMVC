@@ -1,0 +1,18 @@
+v1.0
+----
+
+Simple Hotel Web Application for displaying Room Types / Prices / Etc.
+
+a.	Toolbar on top for category selection
+		- Simple and light UI
+		- Designed using jQuery
+		- Mobile friendly
+
+b.	Form submission on 'Contact Us'
+		- Automatically trigger email notification to desired recipients
+
+
+Basic UI design with main toolbar at the top for category selections.
+
+Allows sending of email automatically after submitting a form.
+(Tested on GoDaddy hosting environment to work correctly)
